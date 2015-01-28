@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e77471-8f5e-45ab-85cb-d898512c677c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/largest_and_smallest_elements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cartesian_products.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-examples.iws" />
@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sets_and_set_operations.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sets_and_set_operations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="multisets_and_multiset_operations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multisets_and_multiset_operations.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,14 +108,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="largest_and_smallest_elements.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="largest_and_smallest_elements.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/largest_and_smallest_elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23923445" vertical-offset="0" max-vertical-offset="627">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#59#71#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cartesian_products.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cartesian_products.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16746412" vertical-offset="0" max-vertical-offset="627">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -173,6 +173,7 @@
         <option value="$PROJECT_DIR$/using_default_dictionaries_to_represent_simple_trees.py" />
         <option value="$PROJECT_DIR$/mapping_objects_to_unique_counting_numbers.py" />
         <option value="$PROJECT_DIR$/largest_and_smallest_elements.py" />
+        <option value="$PROJECT_DIR$/cartesian_products.py" />
       </list>
     </option>
   </component>
@@ -893,11 +894,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/largest_and_smallest_elements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23923445" vertical-offset="0" max-vertical-offset="627">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#59#71#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartesian_products.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16746412" vertical-offset="0" max-vertical-offset="627">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
