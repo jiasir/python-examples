@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e77471-8f5e-45ab-85cb-d898512c677c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inheriting_from_named_tuples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sets_and_set_operations.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-examples.iws" />
@@ -28,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="zipping_and_unzipping_lists_and_iterables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zipping_and_unzipping_lists_and_iterables.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="grouping_adjacent_list_items_using_zip.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grouping_adjacent_list_items_using_zip.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inheriting_from_named_tuples.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inheriting_from_named_tuples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inheriting_from_named_tuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="627">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sets_and_set_operations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sets_and_set_operations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33492824" vertical-offset="0" max-vertical-offset="627">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -161,6 +161,7 @@
         <option value="$PROJECT_DIR$/inverting_a_dictionary_using_a_dictionary_comprehension.py" />
         <option value="$PROJECT_DIR$/named tuples.py" />
         <option value="$PROJECT_DIR$/inheriting_from_named_tuples.py" />
+        <option value="$PROJECT_DIR$/sets_and_set_operations.py" />
       </list>
     </option>
   </component>
@@ -801,8 +802,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inheriting_from_named_tuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="627">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sets_and_set_operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33492824" vertical-offset="0" max-vertical-offset="627">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
