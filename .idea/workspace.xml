@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e77471-8f5e-45ab-85cb-d898512c677c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multisets_and_multiset_operations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/double-ended_queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/most_common_elements_in_an_iterable.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-examples.iws" />
@@ -28,26 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sliding_windows_using_zip_and_iterators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sliding_windows_using_zip_and_iterators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inverting_a_dictionary_using_zip.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inverting_a_dictionary_using_zip.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="flattening_lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flattening_lists.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +99,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multisets_and_multiset_operations.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="multisets_and_multiset_operations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multisets_and_multiset_operations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.119617224" vertical-offset="0" max-vertical-offset="627">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="most_common_elements_in_an_iterable.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/most_common_elements_in_an_iterable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="double-ended_queue.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/double-ended_queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -163,6 +164,8 @@
         <option value="$PROJECT_DIR$/inheriting_from_named_tuples.py" />
         <option value="$PROJECT_DIR$/sets_and_set_operations.py" />
         <option value="$PROJECT_DIR$/multisets_and_multiset_operations.py" />
+        <option value="$PROJECT_DIR$/most_common_elements_in_an_iterable.py" />
+        <option value="$PROJECT_DIR$/double-ended_queue.py" />
       </list>
     </option>
   </component>
@@ -819,8 +822,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/multisets_and_multiset_operations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.119617224" vertical-offset="0" max-vertical-offset="627">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/most_common_elements_in_an_iterable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/double-ended_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
